@@ -346,11 +346,11 @@ building real projects and solving real problems.
 <img src="https://img.shields.io/badge/GitHub-ShrishailChincholi-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shrishailchincholi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://shrishail-devfolio.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-764BA2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
