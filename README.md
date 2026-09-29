@@ -360,7 +360,7 @@ building real projects and solving real problems.
 
 <div align="center">
 
-<a href="YOUR_RESUME_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/📄%20View%20Resume-667EEA?style=for-the-badge" />
 </a>
 
