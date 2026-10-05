@@ -232,25 +232,6 @@ E-commerce platform for buying and selling mobile phones, developed as a full-st
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShrishailChincholi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrishailChincholi&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
