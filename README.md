@@ -20,9 +20,6 @@
 <img src="https://img.shields.io/github/stars/ShrishailChincholi?label=Stars&style=for-the-badge&logo=github&color=f59e0b" />
 </a>
 
-<a href="https://github.com/ShrishailChincholi">
-<img src="https://komarev.com/ghpvc/?username=ShrishailChincholi&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
-</a>
 
 </div>
 
